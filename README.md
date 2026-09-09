@@ -1,4 +1,4 @@
-# AI-Enhanced Learning Management System – Project Summary
+# AI-Enhanced Learning Management System 
 
 ## Project Summary
 
